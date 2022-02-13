@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/rotation4723/1
+
 class Solution {
     int find(int arr[], int left, int right){
         if(left == right) return left;
