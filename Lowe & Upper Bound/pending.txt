@@ -1,0 +1,3 @@
+Closest Elements - https://www.geeksforgeeks.org/find-closest-number-array/
+K Colest Elements - https://leetcode.com/problems/find-k-closest-elements/
+Heaters - https://leetcode.com/problems/heaters/
